@@ -1,0 +1,19 @@
+used Aassistance to understand how to design a basic Salary and Expense Tracker using Vanilla JavaScript, focusing on logic, DOM manipulation, and avoiding frameworks.
+
+took guidance to structure the HTML form properly for salary input, expense name, and expense amount fields.
+
+referred to Afor implementing the core logic to calculate total expenses and remaining balance dynamically based on user input.
+
+used Ato implement proper input validation to prevent empty or negative values.
+
+took help to integrate localStorage for persisting salary and expense data so that the information remains after refreshing the page.
+
+referred to Ato understand how to correctly store and retrieve arrays and objects in localStorage using JSON.stringify() and JSON.parse().
+
+used Aguidance to implement delete functionality for individual expense items and to ensure the balance updates immediately.
+
+took assistance to integrate Chart.js using CDN in a Vanilla JavaScript project.
+
+referred to Ato handle re-rendering of the Chart.js instance properly when data changes.
+
+used Asupport to resolve issues related to string-to-number conversion using Number() for correct mathematical operations.
