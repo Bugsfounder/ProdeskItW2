@@ -85,9 +85,9 @@ Example:
 - Expense List Screenshot:
   ![alt text](resources/image_1.png)
 - Chart View Screenshot:
-  ![alt text](resources/image_3.png)
-- Demo Video Link:
-  (insert link here)
+![alt text](resources/image_3.png)
+<!-- - Demo Video Link:
+  (insert link here) -->
 
 ## Learning Outcomes
 
